@@ -1,0 +1,4 @@
+modelfile /Users/theo/Documents/Master_DATA/M2/signal_processing_for_ML/Project/sclimbic/models/sclimbic.fsm+ad.t1.nstd00-50.nstd32-50.h5
+ctab /Users/theo/Documents/Master_DATA/M2/signal_processing_for_ML/Project/sclimbic/models/sclimbic.ctab
+cd /Users/theo/Documents/Master_DATA/M2/signal_processing_for_ML/Project
+/Users/theo/Documents/Master_DATA/M2/signal_processing_for_ML/Project/sclimbic/python/scripts/mri_sclimbic_seg --i data_T1w --o data_T1w_segmented --write_volumes --conform
